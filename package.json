@@ -1,0 +1,67 @@
+{
+  "name": "online-odering",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.9.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.20.0",
+    "cra-template": "1.0.3",
+    "jquery": "^3.5.0",
+    "lodash.clonedeep": "^4.5.0",
+    "moment": "^2.24.0",
+    "mui-datatables": "^3.7.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-barcode": "^1.4.0",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.13.1",
+    "react-google-invisible-recaptcha": "^0.2.11",
+    "react-loadingg": "^1.7.2",
+    "react-quill": "^1.3.5",
+    "react-rating": "^2.0.5",
+    "react-redux": "^7.2.2",
+    "react-responsive-modal": "^5.0.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^4.0.0",
+    "react-select": "^3.1.0",
+    "react-to-pdf": "0.0.13",
+    "react-toggle": "^4.1.1",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "sweetalert2": "^9.10.12"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
